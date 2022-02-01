@@ -1,2 +1,4 @@
 /node_modules
 /db
+# ignore commit message
+.gitcommit
